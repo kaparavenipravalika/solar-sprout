@@ -1,3 +1,4 @@
+
 # solar-sprout
 Developed an automated irrigation system using solar energy( IOT project):
 Solar panels are normally kept in a one location This means they cannot seize the maximum 
@@ -31,3 +32,9 @@ Arduino IDE
 
 Resource :
 Arduino,water pump,light sensors,solar panel,servo motor,jumper wires,soil moisture sensor,relay,lithium battery
+
+# Results
+
+Comparision analysis between Static, Single-axis, Dual-axis trackers
+
+![p7](https://github.com/user-attachments/assets/7a5968b6-80be-4eb3-8d35-ba5482276764)
