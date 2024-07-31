@@ -15,3 +15,6 @@ These solar panels use smart technology to accurately track the sun. Going forwa
 solar tracking panels will become key for clean energy production.
 Thus the energy stored will be used automatically to reduce the usage of water in the farming 
 field
+#Circuit1
+
+![circuit1](https://github.com/user-attachments/assets/c76cfde1-23d5-420e-8eba-16bc0ff16b8d)
