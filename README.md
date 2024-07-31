@@ -16,6 +16,11 @@ solar tracking panels will become key for clean energy production.
 Thus the energy stored will be used automatically to reduce the usage of water in the farming 
 field
 
-# Circuit1
+# Circuit1 [solar tracking]
 
 ![circuit1](https://github.com/user-attachments/assets/c76cfde1-23d5-420e-8eba-16bc0ff16b8d)
+
+
+# circuit2 [smart irrigation]
+
+![circuit2](https://github.com/user-attachments/assets/56aa2d47-52c7-4d7d-8664-c2185693d7ba)
