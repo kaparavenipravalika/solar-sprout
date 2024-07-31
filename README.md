@@ -25,7 +25,9 @@ field
 
 ![circuit2](https://github.com/user-attachments/assets/56aa2d47-52c7-4d7d-8664-c2185693d7ba)
 
-Software : 
+Technologies used : 
 Arduino IDE
+
+
 Resource :
 Arduino,water pump,light sensors,solar panel,servo motor,jumper wires,soil moisture sensor,relay,lithium battery
